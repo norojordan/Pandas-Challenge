@@ -74,11 +74,11 @@ Scores by School Spending
 
 Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
 
-Average Math Score
-Average Reading Score
-% Passing Math (The percentage of students that passed math.)
-% Passing Reading (The percentage of students that passed reading.)
-% Overall Passing (The percentage of students that passed math and reading.)
+Average Math Score,
+Average Reading Score,
+The percentage of students that passed math,
+The percentage of students that passed reading and 
+The percentage of students that passed both math and reading.)
 
 
 
